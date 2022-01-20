@@ -19,7 +19,7 @@
 .allure/
 .gradle/
 allure-results/
-!gradle/
+gradle/
 build/
 target/
 .classpath
